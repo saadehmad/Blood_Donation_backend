@@ -15,7 +15,7 @@ db.once('open', function () {
 })*/
 
 // port
-var port = process.env.PORT || 8000;
+//var port = process.env.PORT || 8000;
 
 // bodyParser to deal with json data
 app.use(bodyParser.urlencoded({extended: true}));
@@ -45,6 +45,6 @@ app.use('/api/public', api.public);
 app.use('/api/private', api.private);
 
 // running the server
-app.listen(port, function() {
+app.listen(process.env.PORT || 3000, function() {
 	console.log("I am running on port " + port);
 });
