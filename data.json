@@ -1,0 +1,46 @@
+// for form
+{
+	"_id": "ObjectId",
+	"contactNo": 03434747471,
+	"patientName": "John Doe",
+	"bloodGroup": "0 positive",
+	"units": 5,
+	"city": "karachi",
+	"country": "Pakistan",
+	"hospital": "National Medical Hospital",
+	"unitsGiven": false,
+	"info": "He is seriously ill. we need blood, urgently",
+	"userId": "bc130200193",
+	"emali": "bc130200193@vu.edu.pk",
+	"inDays": 5
+}
+
+// for donors
+{
+	"_id":"ObjectId",
+	"hasGiven":"false",
+	"formid": 123123123123,
+	"userId": "bc130200193"
+}
+
+// for comments
+{
+	"_id":"ObjectId",
+	"formid": 123123123123,
+	"userId": "bc130200193",
+	"commentText": "Hey, I will be availabe after 6pm, if you need blood tell me"
+}
+
+// for users
+{
+	"email": "bc130200193@vu.edu.pk",
+	"firstName": "Saad",
+	"lastName": "Saad Ahmed",
+	"country": "Pakistan",
+	"city": "karachi",
+	"contactNo": 03434747471,
+	"profilePic": "bc130200193/profilePic.png",
+	"password": "123456",
+	"username": "bc130200193",
+	"bloodGroup": "O negative"
+}

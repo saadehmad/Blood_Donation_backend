@@ -1,0 +1,1170 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"blood",
+				"bloodGroup"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"tex",
+				"textarea"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"sc",
+				"scirpt"
+			],
+			[
+				"co",
+				"countdownStyle"
+			],
+			[
+				"coun",
+				"countdownDesign"
+			],
+			[
+				"count",
+				"countdownDesign"
+			],
+			[
+				"ano",
+				"anonymousFucnOpen"
+			],
+			[
+				"scri",
+				"scirptOpen"
+			],
+			[
+				"script",
+				"scriptObj"
+			],
+			[
+				"m",
+				"minutes"
+			],
+			[
+				"s",
+				"scirpt"
+			],
+			[
+				"si",
+				"simpleFadeDesign"
+			],
+			[
+				"cou",
+				"countDesign"
+			],
+			[
+				"pre",
+				"preText"
+			],
+			[
+				"ma",
+				"makingCountdown"
+			],
+			[
+				"cir",
+				"circleDesign"
+			],
+			[
+				"modal",
+				"modal-content"
+			],
+			[
+				"btn",
+				"btn-block"
+			],
+			[
+				"label",
+				"labelColor"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"bac",
+				"backgroudColor"
+			],
+			[
+				"back",
+				"backgroudcolor"
+			],
+			[
+				"mai",
+				"makingCountdown"
+			],
+			[
+				"due",
+				"dueTime"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"st",
+				"styles"
+			],
+			[
+				"making",
+				"makingCountdown"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"clock",
+				"clockSpans"
+			],
+			[
+				"mu",
+				"minutes"
+			],
+			[
+				"d",
+				"document"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"get",
+				"getElementsByTagName"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"countdo",
+				"countdownDesign"
+			],
+			[
+				"countdow",
+				"countdownvar"
+			],
+			[
+				"cl",
+				"clock"
+			],
+			[
+				"se",
+				"seconds"
+			],
+			[
+				"app",
+				"appendChild"
+			],
+			[
+				"crea",
+				"createElement"
+			],
+			[
+				"cre",
+				"createElement"
+			],
+			[
+				"clear",
+				"clearInterval"
+			],
+			[
+				"countdown",
+				"countdownObj"
+			],
+			[
+				"timer",
+				"timerInterval"
+			],
+			[
+				"time",
+				"timerInterval"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"elem",
+				"elementsObj"
+			],
+			[
+				"build",
+				"builderForm"
+			],
+			[
+				"buil",
+				"builderForm"
+			],
+			[
+				"bui",
+				"builderForm"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"p",
+				"padding-bottom"
+			],
+			[
+				"c",
+				"countdown"
+			],
+			[
+				"rend",
+				"renderPreGraphics"
+			],
+			[
+				"cound",
+				"countdownObj"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"spa",
+				"span"
+			],
+			[
+				"sp",
+				"span"
+			],
+			[
+				"pso",
+				"postGraphics"
+			],
+			[
+				"an",
+				"animation"
+			],
+			[
+				"set",
+				"setAttributes"
+			],
+			[
+				"pro",
+				"protector-image"
+			],
+			[
+				"lo",
+				"loading-image"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"moda",
+				"modalFormBtn"
+			],
+			[
+				"mod",
+				"modalFormBtn"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"ex",
+				"extractDate"
+			],
+			[
+				"start",
+				"startTimer"
+			],
+			[
+				"sele",
+				"select-design"
+			],
+			[
+				"dis",
+				"disabled"
+			],
+			[
+				"pos",
+				"post-graphics"
+			],
+			[
+				"CO",
+				"countdownName"
+			],
+			[
+				"char",
+				"chartStock"
+			],
+			[
+				"flex",
+				"flex-wrap"
+			],
+			[
+				"wh",
+				"whichTimer"
+			],
+			[
+				"su",
+				"submit-countdown"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"rem",
+				"removeClass"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"ev",
+				"evt"
+			],
+			[
+				"over",
+				"overlay"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"F",
+				"F1F1F1"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"model",
+				"modelFor"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"pr",
+				"prompt"
+			],
+			[
+				"head",
+				"heading"
+			],
+			[
+				"fn",
+				"function"
+			],
+			[
+				"ext",
+				"extractData"
+			],
+			[
+				"send",
+				"sendRequest"
+			],
+			[
+				"is",
+				"isLoggedIn"
+			],
+			[
+				"succ",
+				"Successfully"
+			],
+			[
+				"js",
+				"json"
+			],
+			[
+				"cookie",
+				"cookieParser"
+			],
+			[
+				"ad",
+				"adminCredentials"
+			],
+			[
+				"body",
+				"bodyParser"
+			],
+			[
+				"event",
+				"event"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"up",
+				"upVoteCount"
+			],
+			[
+				"ra",
+				"randomNumber"
+			],
+			[
+				"w",
+				"weight"
+			],
+			[
+				"card",
+				"carsNotDriven"
+			],
+			[
+				"cars",
+				"carsDriven"
+			],
+			[
+				"zeal",
+				"zeal_lang"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.js",
+			"settings":
+			{
+				"buffer_size": 389,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "data.json",
+			"settings":
+			{
+				"buffer_size": 866,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 375,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "package",
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"sublimelinter:d",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"sublimelinter:dis",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"package control:",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: li",
+				"Package Control: List Packages"
+			],
+			[
+				"package control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"sidebar",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"package control in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/saadehmad/Projects/Final_Year_Project",
+		"/home/saadehmad/Projects/Final_Year_Project/backend"
+	],
+	"file_history":
+	[
+		"/etc/rc.local",
+		"/home/saadehmad/Projects/Final_Year_Project/Learning/4/Routes/bookRoutes.js",
+		"/home/saadehmad/Projects/Final_Year_Project/Learning/3/models/bookModel.js",
+		"/home/saadehmad/Projects/Final_Year_Project/Learning/3/Routes/bookRoutes.js",
+		"/home/saadehmad/Projects/Final_Year_Project/Learning/3/app.js",
+		"/home/saadehmad/Projects/Final_Year_Project/Learning/2/app.js",
+		"/home/saadehmad/Projects/Final_Year_Project/Learning/2/booksJson.js",
+		"/home/saadehmad/Projects/Final_Year_Project/Learning/2/package.json",
+		"/home/saadehmad/.config/sublime-text-3/Packages/User/SublimeLinter.sublime-settings",
+		"/home/saadehmad/Projects/Ali/DealBuilder/HTML/assets/js/get-script.js",
+		"/home/saadehmad/Projects/Ali/DealBuilder/HTML/countdown-builder.html",
+		"/home/saadehmad/Projects/Ali/DealBuilder/HTML/assets/js/main.js",
+		"/home/saadehmad/Projects/DealBuilder/WebApp/soon-countdown-pack/extras/builder/index.html",
+		"/home/saadehmad/Projects/Ali/DealBuilder/HTML/assets/js/datetimepicker-master.zip",
+		"/home/saadehmad/Projects/Ali/DealBuilder/alliance-html_v1.1/alliance/forms-widgets.html",
+		"/home/saadehmad/Projects/Ali/DealBuilder/HTML/assets/js/widget/countdown.js",
+		"/home/saadehmad/Projects/Ali/DealBuilder/HTML/assets/js/custom.js",
+		"/home/saadehmad/.config/sublime-text-3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/home/saadehmad/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/saadehmad/Projects/Ali/DealBuilder/HTML/index.html",
+		"/home/saadehmad/Projects/Ali/DealBuilder/HTML/assets/js/widget.js/countdown.js",
+		"/home/saadehmad/Projects/Ali/DealBuilder/HTML/assets/allcp/custom.css",
+		"/home/saadehmad/Projects/Ali/DealBuilder/HTML/promotional_counter.html",
+		"/home/saadehmad/Projects/Ali/DealBuilder/HTML/widget/index.html",
+		"/home/saadehmad/Projects/Ali/DealBuilder/HTML/widget/widget.html",
+		"/home/saadehmad/Projects/Ali/DealBuilder/HTML/widget/src/main.js",
+		"/home/saadehmad/Projects/Ali/DealBuilder/HTML/widget/style.css",
+		"/home/saadehmad/Projects/Ali/DealBuilder/HTML/widget/src/lib/sqwidget/sqwidget.js",
+		"/home/saadehmad/Projects/Ali/DealBuilder/alliance-html_v1.1/alliance/assets/js/countdown_builder.js",
+		"/home/saadehmad/Projects/Ali/DealBuilder/HTML/widget/package.json",
+		"/home/saadehmad/Projects/Ali/DealBuilder/alliance-html_v1.1/alliance/user-interface-grid.html",
+		"/home/saadehmad/Projects/Ali/DealBuilder/alliance-html_v1.1/alliance/management-tools-modals.html",
+		"/home/saadehmad/Projects/Ali/DealBuilder/alliance-html_v1.1/alliance/dashboard1.html",
+		"/home/saadehmad/Projects/Ali/DealBuilder/alliance-html_v1.1/readme.txt",
+		"/home/saadehmad/Projects/DealBuilder/index.html",
+		"/home/saadehmad/Projects/DealBuilder/Ngage Members_files/custom.css",
+		"/home/saadehmad/Projects/DealBuilder/assets/js/get-shit-done.js",
+		"/home/saadehmad/Projects/DealBuilder/Countdowns/countdown-timer-form.js",
+		"/home/saadehmad/Projects/DealBuilder/Countdowns/index.html",
+		"/home/saadehmad/Projects/DealBuilder/assets/css/custom.css",
+		"/home/saadehmad/Projects/DealBuilder/assets/css/colorpallete",
+		"/home/saadehmad/Projects/DealBuilder/HTML/components.html",
+		"/home/saadehmad/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/saadehmad/Projects/DealBuilder/Deals/index.html",
+		"/home/saadehmad/Projects/DealBuilder/HTML/navbar-transparent.html",
+		"/home/saadehmad/Projects/DealBuilder/assets/css/._Icon",
+		"/home/saadehmad/Projects/DealBuilder/assets/css/Icon",
+		"/home/saadehmad/Projects/DealBuilder/assets/css/gsdk.css",
+		"/home/saadehmad/Projects/DealBuilder/HTML/tutorial-html.html",
+		"/home/saadehmad/Projects/DealBuilder/HTML/examples/home.html",
+		"/home/saadehmad/Projects/DealBuilder/HTML/index.html",
+		"/home/saadehmad/Projects/DealBuilder/LogIn/index.html",
+		"/home/saadehmad/Projects/Nick/StartupLegalForms/App/app/components/wizard-menu-sub-section/template.hbs",
+		"/home/saadehmad/Projects/Nick/StartupLegalForms/App/app/components/wizard-menu-page/template.hbs",
+		"/home/saadehmad/Projects/Nick/StartupLegalForms/App/app/components/wizard-menu-section/template.hbs",
+		"/home/saadehmad/Projects/Nick/StartupLegalForms/App/app/components/wizard-menu/template.hbs",
+		"/home/saadehmad/Projects/Nick/StartupLegalForms/App/app/purchase/wizard/section/template.hbs",
+		"/home/saadehmad/Projects/Nick/StartupLegalForms/App/prod",
+		"/home/saadehmad/Projects/Nick/StartupLegalForms/App/dist/testem.js",
+		"/home/saadehmad/Projects/Nick/StartupLegalForms/App/config/deploy.js",
+		"/home/saadehmad/Projects/Nick/StartupLegalForms/App/app/purchase/wizard/section/page/route.js",
+		"/home/saadehmad/Projects/Nick/StartupLegalForms/App/app/purchase/wizard/section/sub_section/page/route.js",
+		"/home/saadehmad/Projects/Nick/StartupLegalForms/App/app/purchase/wizard/section/sub_section/page/template.hbs",
+		"/home/saadehmad/Projects/Nick/StartupLegalForms/App/app/purchase/wizard/section/page/template.hbs",
+		"/home/saadehmad/Projects/StartupLegalForms - Backup/App/app/purchase/wizard/section/sub_section/page/route.js",
+		"/home/saadehmad/Projects/StartupLegalForms - Backup/App/app/purchase/wizard/section/sub_section/page/template.hbs",
+		"/home/saadehmad/Projects/StartupLegalForms - Backup/App/app/components/wizard-menu/template.hbs",
+		"/home/saadehmad/Projects/StartupLegalForms - Backup/App/app/purchase/wizard/section/page/template.hbs",
+		"/home/saadehmad/Projects/StartupLegalForms - Backup/App/app/components/wizard-menu/component.js",
+		"/home/saadehmad/Projects/StartupLegalForms - Backup/App/app/purchase/wizard/section/route.js",
+		"/home/saadehmad/Projects/StartupLegalForms - Backup/App/app/router.js",
+		"/home/saadehmad/Projects/StartupLegalForms - Backup/App/app/purchase/model.js",
+		"/home/saadehmad/Projects/StartupLegalForms - Backup/App/app/purchase/wizard/model.js",
+		"/home/saadehmad/Projects/StartupLegalForms - Backup/App/app/page/model.js",
+		"/home/saadehmad/Projects/StartupLegalForms - Backup/App/app/user/model.js",
+		"/home/saadehmad/Projects/StartupLegalForms - Backup/App/app/sub_section/model.js",
+		"/home/saadehmad/Projects/StartupLegalForms - Backup/App/app/section/model.js",
+		"/home/saadehmad/Projects/StartupLegalForms - Backup/App/app/field/model.js",
+		"/home/saadehmad/Projects/StartupLegalForms - Backup/App/app/document/model.js",
+		"/home/saadehmad/Projects/StartupLegalForms - Backup/App/app/dashboard/model.js",
+		"/home/saadehmad/Projects/StartupLegalForms - Backup/App/app/purchase/wizard/section/page/controller.js",
+		"/home/saadehmad/Projects/StartupLegalForms - Backup/App/app/purchase/template.hbs",
+		"/home/saadehmad/Projects/StartupLegalForms - Backup/App/app/purchase/wizard/template.hbs",
+		"/home/saadehmad/Projects/StartupLegalForms - Backup/App/app/purchase/wizard/section/template.hbs",
+		"/home/saadehmad/Projects/StartupLegalForms - Backup/App/app/purchase/wizard/section/controller.js",
+		"/home/saadehmad/Projects/StartupLegalForms - Backup/App/app/purchase/wizard/section/sub_section/route.js",
+		"/home/saadehmad/Projects/StartupLegalForms - Backup/App/app/purchase/wizard/section/sub_section/controller.js",
+		"/home/saadehmad/Projects/StartupLegalForms - Backup/App/app/purchase/wizard/route.js",
+		"/home/saadehmad/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/saadehmad/Projects/StartupLegalForms - Backup/App/app/purchase/route.js",
+		"/home/saadehmad/Projects/StartupLegalForms - Backup/App/app/purchase/component.js",
+		"/home/saadehmad/Projects/Nick/StartupLegalForms/App/app/purchase/wizard/template.hbs",
+		"/home/saadehmad/Projects/Nick/StartupLegalForms/App/app/index.html",
+		"/home/saadehmad/Projects/Nick/StartupLegalForms/App/app/templates/application.hbs",
+		"/home/saadehmad/Projects/Nick/StartupLegalForms/App/app/app.js",
+		"/home/saadehmad/Projects/Nick/StartupLegalForms/App/app/components/preview-modal/template.hbs",
+		"/home/saadehmad/Projects/Nick/StartupLegalForms/App/app/styles/app.scss",
+		"/home/saadehmad/Projects/Nick/StartupLegalForms/App/app/purchase/service.js",
+		"/home/saadehmad/Projects/Nick/StartupLegalForms/App/app/purchase/wizard/section/sub_section/route.js",
+		"/home/saadehmad/Projects/Nick/StartupLegalForms/App/app/router.js",
+		"/home/saadehmad/Projects/Nick/StartupLegalForms/App/app/components/wizard-menu/component.js",
+		"/home/saadehmad/Projects/Nick/StartupLegalForms/App/app/purchase/route.js",
+		"/home/saadehmad/Projects/Nick/StartupLegalForms/App/app/sub_section/model.js",
+		"/home/saadehmad/Projects/Nick/StartupLegalForms/App/bower_components/foundation-sites/scss/components/_reveal.scss",
+		"/home/saadehmad/Projects/Nick/StartupLegalForms/App/app/dashboard/template.hbs",
+		"/home/saadehmad/Projects/Nick/StartupLegalForms/App/app/components/my-purchases/template.hbs",
+		"/home/saadehmad/Projects/Nick/StartupLegalForms/App/app/dashboard/controller.js",
+		"/home/saadehmad/Projects/Nick/StartupLegalForms/App/app/dashboard/model.js",
+		"/home/saadehmad/Projects/Nick/StartupLegalForms/App/app/routes/application.js",
+		"/home/saadehmad/Projects/Nick/StartupLegalForms/App/app/purchase/wizard/model.js",
+		"/home/saadehmad/Projects/Nick/StartupLegalForms/App/app/purchase/template.hbs",
+		"/home/saadehmad/Projects/Nick/StartupLegalForms/App/app/components/page-viewer/component.js",
+		"/home/saadehmad/Projects/Nick/StartupLegalForms/App/app/dashboard/route.js",
+		"/home/saadehmad/Projects/Nick/StartupLegalForms/App/app/page/mixin.js",
+		"/home/saadehmad/Projects/Nick/StartupLegalForms/App/app/page/model.js",
+		"/home/saadehmad/Projects/Nick/StartupLegalForms/App/app/purchase/wizard/section/route.js",
+		"/home/saadehmad/Projects/Nick/StartupLegalForms/App/app/purchase/wizard/section/controller.js",
+		"/home/saadehmad/Projects/Nick/StartupLegalForms/App/app/dashboard/component.js",
+		"/home/saadehmad/Projects/Nick/StartupLegalForms/App/app/components/my-purchases/component.js",
+		"/home/saadehmad/Projects/Nick/StartupLegalForms/App/app/controllers/application.js",
+		"/home/saadehmad/Projects/Nick/StartupLegalForms/App/app/components/create-document/template.hbs",
+		"/home/saadehmad/Projects/Nick/StartupLegalForms/App/app/components/create-document/component.js",
+		"/home/saadehmad/Projects/Nick/StartupLegalForms/App/app/components/rename-purchase/template.hbs",
+		"/home/saadehmad/Projects/Nick/StartupLegalForms/App/app/components/rename-purchase/component.js",
+		"/home/saadehmad/Projects/Nick/StartupLegalForms/App/app/document/model.js",
+		"/home/saadehmad/Projects/Nick/StartupLegalForms/App/app/models/.gitkeep",
+		"/home/saadehmad/Projects/Nick/StartupLegalForms/App/app/user/model.js",
+		"/home/saadehmad/Projects/Nick/StartupLegalForms/App/app/resolver.js"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/home/saadehmad/Projects/Nick/StartupLegalForms/App/app",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"catalog",
+			"clockspans.for",
+			"text-align",
+			"\\",
+			"simplefade",
+			"textshadow",
+			"countDesign",
+			"+",
+			"\"",
+			"\\",
+			"\"",
+			",",
+			"script",
+			"goo",
+			"ana",
+			"analy",
+			"countdown",
+			"\"",
+			"simple",
+			"id",
+			"length",
+			"preText",
+			"countdown",
+			"simpleFade",
+			"simplefade",
+			"post",
+			"pre-graphics",
+			"label",
+			"time co",
+			"time back",
+			"time",
+			"/form",
+			"pre",
+			"swi",
+			"backgroundcolor",
+			"obj",
+			"lin",
+			"script",
+			"making",
+			"clock",
+			"backgroundColor",
+			"countdown",
+			"obj",
+			"countdown()",
+			"id",
+			"center",
+			"setattributes",
+			"countdownvar",
+			"append",
+			"createelement('div",
+			"id=\"countdown\"",
+			"appendch",
+			"efaultDesign",
+			"countdown(obj",
+			"countdown",
+			"create",
+			"createelement",
+			"style",
+			"obj",
+			"timerInterval",
+			"countdownObj.timerInterval",
+			"startTimer",
+			"renderposttext",
+			"renderpretext",
+			"renderpre",
+			"setup",
+			"getdata",
+			"pre-counter",
+			"builderForm",
+			"!",
+			"date picker",
+			"date",
+			"date pic",
+			"date picker",
+			"countdown",
+			"units",
+			"conso",
+			"span",
+			"obj",
+			"animate",
+			"update",
+			"this",
+			"deadline",
+			"select counter",
+			"section",
+			"content",
+			"highcharts",
+			"script",
+			"modal-form",
+			"allcp",
+			"popup-basic",
+			"form",
+			"fade",
+			"bs-component",
+			"dashboard1",
+			"ct-gree",
+			"ct-gree\t",
+			"button",
+			"logo",
+			"submit",
+			"ngage",
+			"href",
+			"html",
+			"href",
+			"h2",
+			"h4",
+			"logo",
+			"deadline",
+			"modal",
+			"btn-timer",
+			"selectpic",
+			"selectpo",
+			"logo",
+			"selectpicker",
+			"pre-text",
+			"selectpi",
+			"switch",
+			"\"",
+			"switch",
+			"noHeader",
+			".overlay",
+			".promo",
+			".promotion",
+			".inline",
+			"new-coun",
+			"new-",
+			"new-co",
+			"inline"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 389,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								389,
+								389
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "data.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 866,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								864,
+								864
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 399.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 375,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 110.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "bloodDonationAPI.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"custom.js",
+				"HTML/assets/js/custom.js"
+			],
+			[
+				"user",
+				"alliance-html_v1.1/alliance/user-interface-grid.html"
+			],
+			[
+				"widget",
+				"alliance-html_v1.1/alliance/widgets-panels.html"
+			],
+			[
+				"reveal.",
+				"bower_components/foundation-sites/scss/components/_reveal.scss"
+			],
+			[
+				"router",
+				"app/router.js"
+			],
+			[
+				"ember-data",
+				"node_modules/ember-data/addon/-private/system/record-array-manager.js"
+			],
+			[
+				"dic",
+				"dictionaryModel.js"
+			],
+			[
+				"editeve",
+				"app/js/controllers/EditEventController.js"
+			],
+			[
+				"ap",
+				"app/js/app.js"
+			],
+			[
+				"eve",
+				"app/EventDetails.html"
+			],
+			[
+				"webs",
+				"scripts/web-server.js"
+			],
+			[
+				"edi",
+				"app/js/controllers/EditProfileController.js"
+			],
+			[
+				"ev",
+				"app/EventDetails.html"
+			],
+			[
+				"app",
+				"app/js/app.js"
+			],
+			[
+				"even",
+				"app/js/controllers/EventController.js"
+			],
+			[
+				"e",
+				"app/EventDetails.html"
+			],
+			[
+				"",
+				"app/css/app.css"
+			],
+			[
+				"fil",
+				"app/js/filters.js"
+			],
+			[
+				"app.css",
+				"app/css/app.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 185.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
