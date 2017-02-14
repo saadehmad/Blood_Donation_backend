@@ -4,7 +4,7 @@
   "description": "API's for Android application(Blood Donation)",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Saad Ahmed",
   "license": "ISC",
