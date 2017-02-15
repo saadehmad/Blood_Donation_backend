@@ -1,0 +1,12 @@
+{
+	"name":"Blood Donation",
+	"description": "Request Blood for those who need it.",
+	"keywords": ["blood", "donation"],
+	"repository": "https://github.com/saadehmad/Blood_Donation_backend",
+	"env": {
+		"SECRET_TOKEN": {
+			"description": "To verify tokens secret and sign it",
+			"generator": "finalYearProject"
+		}
+	}
+}
